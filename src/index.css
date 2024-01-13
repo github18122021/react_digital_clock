@@ -21,6 +21,7 @@ body {
   color: green;
   background-color: black;
   height: 100vh;
+  /* min-width: 30rem; Media Query Breakpoint */
 }
 
 #root {
